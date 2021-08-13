@@ -1,16 +1,8 @@
 # cube_roller
 
-An app that rolls two six-sided die and then gives you the random output
+A simple app that rolls two "cube" dice and then gives you the random output. I completed this as part of a flutter udemy course however, I added crude animations to the roll and also included a seventh side for each of the die, it's pretty funny.  
 
-## Getting Started
+## Final Product
+![image](https://user-images.githubusercontent.com/79337953/129426494-a1c663ef-5d06-44c3-8501-f42d314b1721.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
